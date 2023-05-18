@@ -12,10 +12,15 @@ Copy and paste the code of the rockPaperScissors function into the JavaScript fi
 ## Usage
 
 1.Open a terminal or command prompt and navigate to the directory where you saved the JavaScript file.
+
 2.Run the following command to execute the program:
+
 node rockPaperScissors.js
+
 3.The program will prompt you to make your move by entering either the letter or the full name of your choice (R for rock, P for paper, or S for scissors).
+
 4.After you make your move, the program will display the computer's move and announce the winner of the round.
+
 5.The program will continue to prompt you for new moves and display the results until you manually terminate it.
 
 ## Code Explanation
